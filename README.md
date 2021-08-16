@@ -1,2 +1,2 @@
 # HexaCopter
-# Partially working.....need a lot of changes
+# Partially working.....need a few changes
